@@ -1,12 +1,24 @@
+.center{
+
+    text-align:center;
+}
 h2
 {
+   
     color:rgb(80, 80, 80);
 }
 span
 {
+    
     color: gold;
 }
-p
-{
+.blue{
+   
+    color: rgb(14, 86, 180);
+}
+#resume{
+    color: rgb(13, 13, 155);
+}
+.orange{
     color: rgba(231, 110, 10, 0.966);
 }
